@@ -4,8 +4,7 @@ d
 t
 tt
 ttt
-tt
-tttt
+ttt
 tt
 t
 t
