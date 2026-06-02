@@ -6,7 +6,7 @@ tt
 tttff
 tttf
 ttf
-tef
+teff
 trfff
 ff
 f
