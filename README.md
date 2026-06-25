@@ -2,7 +2,7 @@ g# Ruflo
 d
 d
 g
-g
+gf
 gg
 g
 gggf
