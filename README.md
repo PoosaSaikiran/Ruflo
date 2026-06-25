@@ -3,6 +3,6 @@ d
 d
 g
 gf
-gg
+fgg
 g
 gggf
