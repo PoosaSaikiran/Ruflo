@@ -1,5 +1,2 @@
 # Ruflo
  
-g
-f
-f
