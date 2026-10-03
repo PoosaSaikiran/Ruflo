@@ -1,5 +1,2 @@
 # Ruflo
  
-o
-o
-o
