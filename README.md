@@ -1,12 +1,2 @@
 hm# Ruflo
  
-m
-m
-h
-h
-h
-h
-h
-h
-h
-h
